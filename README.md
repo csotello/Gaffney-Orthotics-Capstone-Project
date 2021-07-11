@@ -11,6 +11,9 @@ Chris Teters,
 Jacob Odell,
 Carlos Sotello
 
+## Demo
+![Demo Image](images/ortho.jpg)
+
 ## Installation
 * Ensure you have [Node.js](https://nodejs.org/en/) and [Emscripten](https://emscripten.org/docs/getting_started/downloads.html) installed
 * Navigate to *frontend/app* directory and run:
